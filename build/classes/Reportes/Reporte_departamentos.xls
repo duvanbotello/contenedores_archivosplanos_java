@@ -1,0 +1,6 @@
+------------------------------------------REPORTE DE DEPARTAMENTOS-----------------------------------------------
+NOMBRE DEPARTAMENTO	CODIGO	DOC EMPLEADO ENCARGADI	FECHA QUE EMPEZO	LISTA DE PROYECTOS
+sistemas	1000	1090499082	16/06/2017	[Abstracciones.Abs_proyectos@45cc270c, Abstracciones.Abs_proyectos@6bdba2eb, Abstracciones.Abs_proyectos@346565a8]
+contabilidad	1001	545465	10/06/2017	[Abstracciones.Abs_proyectos@5a09cb6f, Abstracciones.Abs_proyectos@7ed97365, Abstracciones.Abs_proyectos@48234aaf, Abstracciones.Abs_proyectos@57742e26, Abstracciones.Abs_proyectos@4332c514]
+servicio social	1002	123456	18/06/2017	[Abstracciones.Abs_proyectos@76c5d44c, Abstracciones.Abs_proyectos@24e18e09, Abstracciones.Abs_proyectos@521281ad, Abstracciones.Abs_proyectos@7ddf49e]
+gerencia	1003	1090499082	14/06/2014	[]
