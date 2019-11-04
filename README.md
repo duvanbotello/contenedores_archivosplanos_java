@@ -25,3 +25,21 @@ El programa debe construirse en base a contenedores con anidamiento y archivos p
 * Listado de empleados que tienen sueldos mayores a $1.000.000
 * Listado de empleados según género y el sueldo es menor o igual a 2.000.000 o tengan más de 3 hijos.
 * Listado de proyectos según fecha de inicio y terminación
+
+# Imagenes:
+
+<img src="https://github.com/duvanbotello/contenedores_archivosplanos_java/blob/master/imagenes/1.PNG" >
+
+<img src="https://github.com/duvanbotello/contenedores_archivosplanos_java/blob/master/imagenes/2.PNG">
+
+<img src="https://github.com/duvanbotello/contenedores_archivosplanos_java/blob/master/imagenes/3.PNG">
+
+<img src="https://github.com/duvanbotello/contenedores_archivosplanos_java/blob/master/imagenes/4.PNG">
+
+<img src="https://github.com/duvanbotello/contenedores_archivosplanos_java/blob/master/imagenes/5.PNG">
+
+<img src="https://github.com/duvanbotello/contenedores_archivosplanos_java/blob/master/imagenes/6.PNG">
+
+# Otros Datos:
+
+El archivo plano que guardas las contraseñas de iniciar sesion se encuenta en src/Archivos_Planos/Radmin.txt
